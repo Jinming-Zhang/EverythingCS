@@ -1,0 +1,11 @@
+# Oh My Sql
+[[Introduction]]
+[[Key Data Type and Value Types]]
+[[Create Database and Tables]]
+[[Views]]
+[[Primary Key Foreign Key]]
+[[CRUD Queries]]
+[[Query Clauses]]
+[[Null data and 0]]
+[[Some Data type operations]]
+[[Common Builtin Functions]]
