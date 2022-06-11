@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md",
+            "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md",
+            "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md",
+                "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md",
-    "Programming/Cpp/TZ_Cheatsheets/Identifier Linkage.md",
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
     "Programming/Cpp/TZ_Cheatsheets/Namespaces and scope.md",
-    "Glossary/Glossary.md",
-    "Glossary/Using declaration Vs Using directive.md",
+    "Programming/Cpp/TZ_Cheatsheets/Index.md",
+    "Programming/Cpp/TZ_Cheatsheets/Identifier Linkage.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Glossary.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Forward Declaration.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Inline Function and Variable.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
-    "Programming/Cpp/TZ_Cheatsheets/Cheatsheet.md"
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Variable Duration.md",
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md",
+    "Glossary/Glossary.md"
   ]
 }
