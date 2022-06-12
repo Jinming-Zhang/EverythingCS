@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sql/Data Design/Data Normalization.md",
+            "file": "Sql/Joins.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sql/Data Design/Data Normalization.md",
-            "mode": "source"
+            "file": "Sql/Joins.md",
+            "mode": "preview"
           }
         },
         "group": "a494b50fb21b0038"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sql/Data Design/Data Normalization.md",
+                "file": "Sql/Joins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
+    "Sql/Joins.md",
+    "Sql/Introduction.md",
+    "Sql/Images/SQL-TheCompleteDevelopersGuideMySQLPostgreSQLUdemy-3-47.jpg",
     "Sql/Data Design/Data Normalization.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
     "Programming/Cpp/TZ_Cheatsheets/Namespaces and scope.md",
     "Programming/Cpp/TZ_Cheatsheets/Index.md",
     "Programming/Cpp/TZ_Cheatsheets/Identifier Linkage.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Glossary.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Forward Declaration.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Inline Function and Variable.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Variable Duration.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md"
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Forward Declaration.md"
   ]
 }
