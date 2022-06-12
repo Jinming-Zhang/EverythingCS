@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
+            "file": "Sql/Data Design/Data Normalization.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
-            "mode": "preview"
+            "file": "Sql/Data Design/Data Normalization.md",
+            "mode": "source"
           }
         },
         "group": "a494b50fb21b0038"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
+                "file": "Sql/Data Design/Data Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
+    "Sql/Data Design/Data Normalization.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
     "Programming/Cpp/TZ_Cheatsheets/Namespaces and scope.md",
     "Programming/Cpp/TZ_Cheatsheets/Index.md",
@@ -109,7 +110,6 @@
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Forward Declaration.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Inline Function and Variable.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Variable Duration.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md",
-    "Glossary/Glossary.md"
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Constexp and Consteval Function.md"
   ]
 }
