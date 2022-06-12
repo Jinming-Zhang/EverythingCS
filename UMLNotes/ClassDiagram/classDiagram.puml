@@ -1,0 +1,7 @@
+@startuml ClassDiagram
+class Wolf{
+	name:string
+	Woof()
+	Eat (banana:Food)
+}
+@enduml
