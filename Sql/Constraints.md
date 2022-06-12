@@ -53,6 +53,6 @@ CREATE TABLE "table_name"(
 );
 ```
 
-## Constriant - PRIMARY KEY
+## Constriant - PRIMARY/FOREIGN KEY
 See [[Primary Key Foreign Key]]
-Must be not null and unique, only one primary key column is allowed in a table.
+Primary Key must be not null and unique, only one primary key column is allowed in a table.

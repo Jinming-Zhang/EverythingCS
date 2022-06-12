@@ -67,7 +67,7 @@ AND
 (salary BETWEEN 85000 AND 90000);
 -- BETWEEN queries values INCLUSIVELY for both sides
 ```
-
+[[Joins]] can also be used in SELECT query.
 ## Nested Queries
 Since query returns a table, it can also be used to run `SELECT` query. But we can't alter the data in query because those only exist in memory
 ```sql
