@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sql/Data Design/Data Relationships.md",
+            "file": "Programming/Cpp/TZ_Cheatsheets/Go To Statement.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sql/Data Design/Data Relationships.md",
+            "file": "Programming/Cpp/TZ_Cheatsheets/Go To Statement.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sql/Data Design/Data Relationships.md",
+                "file": "Programming/Cpp/TZ_Cheatsheets/Go To Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
+    "Programming/Cpp/TZ_Cheatsheets/Go To Statement.md",
+    "Programming/Cpp/TZ_Cheatsheets/Switch Case and Precautions.md",
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Attribute.md",
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Glossary.md",
     "Sql/Data Design/Data Relationships.md",
     "Sql/Constraints.md",
     "Sql/CRUD Queries.md",
     "Sql/Data Design/Data Normalization.md",
     "Sql/Data Design/Primary Key Foreign Key.md",
-    "Sql/Joins.md",
-    "Sql/Introduction.md",
-    "Sql/Images/SQL-TheCompleteDevelopersGuideMySQLPostgreSQLUdemy-3-47.jpg",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Using declaration Vs Using directive.md",
-    "Programming/Cpp/TZ_Cheatsheets/Namespaces and scope.md"
+    "Sql/Joins.md"
   ]
 }
