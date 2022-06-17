@@ -1,3 +1,6 @@
 [submodule "Programming/Cpp"]
 	path = Programming/Cpp
 	url = https://github.com/Jinming-Zhang/learncpp
+[submodule "linux-webserver-config"]
+	path = linux-webserver-config
+	url = git@github.com:Jinming-Zhang/linux-webserver-config.git
