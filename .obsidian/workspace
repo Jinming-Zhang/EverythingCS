@@ -7,8 +7,11 @@
         "id": "0be45fe15580e178",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RANDOM NUMBER GENERATORS.md",
+            "mode": "source"
+          }
         },
         "group": "a494b50fb21b0038"
       },
@@ -16,8 +19,11 @@
         "id": "eb9e27644f94a351",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RANDOM NUMBER GENERATORS.md",
+            "mode": "preview"
+          }
         },
         "group": "a494b50fb21b0038"
       }
@@ -75,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RANDOM NUMBER GENERATORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +101,15 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
+    "RANDOM NUMBER GENERATORS.md",
+    "Programming/Cpp/TZ_Cheatsheets/Index.md",
+    "Programming/Cpp/TZ_Cheatsheets/Testing Strategies.md",
+    "WebDev/css/Position.md",
+    "WebDev/css/GridLayout.md",
+    "WebDev/css/css-grid-poster.png",
     "Programming/Cpp/TZ_Cheatsheets/Go To Statement.md",
     "Programming/Cpp/TZ_Cheatsheets/Switch Case and Precautions.md",
     "Programming/Cpp/TZ_Cheatsheets/Glossary/Attribute.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Glossary.md",
-    "Sql/Data Design/Data Relationships.md",
-    "Sql/Constraints.md",
-    "Sql/CRUD Queries.md",
-    "Sql/Data Design/Data Normalization.md",
-    "Sql/Data Design/Primary Key Foreign Key.md",
-    "Sql/Joins.md"
+    "Programming/Cpp/TZ_Cheatsheets/Glossary/Glossary.md"
   ]
 }
