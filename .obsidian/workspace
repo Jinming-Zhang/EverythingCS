@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RANDOM NUMBER GENERATORS.md",
+            "file": "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RANDOM NUMBER GENERATORS.md",
+            "file": "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RANDOM NUMBER GENERATORS.md",
+                "file": "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
-    "RANDOM NUMBER GENERATORS.md",
-    "Programming/Cpp/TZ_Cheatsheets/Index.md",
-    "Programming/Cpp/TZ_Cheatsheets/Testing Strategies.md",
-    "WebDev/css/Position.md",
-    "WebDev/css/GridLayout.md",
-    "WebDev/css/css-grid-poster.png",
-    "Programming/Cpp/TZ_Cheatsheets/Go To Statement.md",
-    "Programming/Cpp/TZ_Cheatsheets/Switch Case and Precautions.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Attribute.md",
-    "Programming/Cpp/TZ_Cheatsheets/Glossary/Glossary.md"
+    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
+    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Implicit Conversions.md",
+    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Type Aliases.md",
+    "Programming/Cpp/T6_TypeAndCast/index.md",
+    "Git/Extensions/git lfs.md",
+    "Git/Extensions/gitattributes.md",
+    "Git/index.md",
+    "Index.md",
+    "linux-webserver-config/index.md",
+    "UMLNotes/index.md"
   ]
 }
