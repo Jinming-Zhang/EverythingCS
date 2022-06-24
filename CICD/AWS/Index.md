@@ -1,4 +1,4 @@
-[[Change file/directory permission]]
+[[directory permission]]
 [[Storage]]
 [[Mount Volume]]
 [[Cleanup Linux System]]

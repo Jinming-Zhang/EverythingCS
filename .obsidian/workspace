@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
+            "file": "CICD/Linux/User Permissions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
+            "file": "CICD/Linux/User Permissions.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
+                "file": "CICD/Linux/User Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
+    "CICD/Linux/User Permissions.md",
+    "linux-webserver-config/ServiceFileTemplate.md",
+    "CICD/AWS/Create service file for systemctl.md",
+    "Programming/Bash/Directories.md",
+    "Programming/Bash/Declare Variables.md",
+    "Programming/Bash/Starting A Bash File.md",
+    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Type Aliases.md",
     "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
     "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Implicit Conversions.md",
-    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Type Aliases.md",
-    "Programming/Cpp/T6_TypeAndCast/index.md",
-    "Git/Extensions/git lfs.md",
-    "Git/Extensions/gitattributes.md",
-    "Git/index.md",
-    "Index.md",
-    "linux-webserver-config/index.md",
-    "UMLNotes/index.md"
+    "Programming/Cpp/T6_TypeAndCast/index.md"
   ]
 }

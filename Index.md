@@ -7,5 +7,5 @@
 ## [[UMLNotes/index | UML]]
 ## [[Sql/Index | SQL]]
 # Cloud Services
-## [[AWS/Index | AWS]]
+## [[CICD/AWS/Index | AWS]]
 ## [[linux-webserver-config/index | Linux Webserver Config]]
