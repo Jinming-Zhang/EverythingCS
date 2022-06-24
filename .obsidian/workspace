@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Linux/User Permissions.md",
+            "file": "CICD/Setup Ubuntu Web Server.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Linux/User Permissions.md",
+            "file": "CICD/Setup Ubuntu Web Server.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/Linux/User Permissions.md",
+                "file": "CICD/Setup Ubuntu Web Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
+    "CICD/Setup Ubuntu Web Server.md",
     "CICD/Linux/User Permissions.md",
     "linux-webserver-config/ServiceFileTemplate.md",
-    "CICD/AWS/Create service file for systemctl.md",
-    "Programming/Bash/Directories.md",
-    "Programming/Bash/Declare Variables.md",
-    "Programming/Bash/Starting A Bash File.md",
-    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Type Aliases.md",
-    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Casts.md",
-    "Programming/Cpp/TZ_Cheatsheets/Type and Cast/Implicit Conversions.md",
-    "Programming/Cpp/T6_TypeAndCast/index.md"
+    "CICD/Linux/Create service file for systemctl.md",
+    "linux-webserver-config/nginx_config/Index.md",
+    "linux-webserver-config/index.md",
+    "CICD/Linux/directory permission.md",
+    "CICD/AWS/Mount Volume.md",
+    "CICD/Linux/Storage.md",
+    "Programming/Bash/Directories.md"
   ]
 }
