@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Setup Ubuntu Web Server.md",
+            "file": "Programming/Cpp/T7 Templates/Template Functions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Setup Ubuntu Web Server.md",
+            "file": "Programming/Cpp/T7 Templates/Template Functions.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/Setup Ubuntu Web Server.md",
+                "file": "Programming/Cpp/T7 Templates/Template Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "0be45fe15580e178",
   "lastOpenFiles": [
+    "Programming/Cpp/T7 Templates/Template Functions.md",
     "CICD/Setup Ubuntu Web Server.md",
     "CICD/Linux/User Permissions.md",
     "linux-webserver-config/ServiceFileTemplate.md",
@@ -109,7 +110,6 @@
     "linux-webserver-config/index.md",
     "CICD/Linux/directory permission.md",
     "CICD/AWS/Mount Volume.md",
-    "CICD/Linux/Storage.md",
-    "Programming/Bash/Directories.md"
+    "CICD/Linux/Storage.md"
   ]
 }
