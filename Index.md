@@ -1,5 +1,5 @@
 # Programming
-## [[Programming/Cpp/TZ_Cheatsheets/Index | C++]]
+## [[Programming/Cpp/TZ_Note/Index | C++]]
 
 # Math
 # Tools
