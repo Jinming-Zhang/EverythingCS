@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Setup Ubuntu Web Server.md",
+            "file": "linux-webserver-config/index.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Setup Ubuntu Web Server.md",
+            "file": "linux-webserver-config/index.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/Setup Ubuntu Web Server.md",
+                "file": "linux-webserver-config/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "eb9e27644f94a351",
   "lastOpenFiles": [
+    "linux-webserver-config/index.md",
+    "linux-webserver-config/ServiceFileTemplate.md",
+    "CICD/Linux/Create service file for systemctl.md",
+    "linux-webserver-config/jenkins sudo commands.md",
+    "CICD/Linux/User Permissions.md",
     "CICD/Setup Ubuntu Web Server.md",
-    "CICD/AWS/Index.md",
-    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/Enums.md",
-    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/Struct.md",
-    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/index.md",
-    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Type Deduction.md",
-    "Programming/Cpp/TZ_Note/Notes/References and Pointers/Pointer.md",
-    "Programming/Cpp/TZ_Note/Notes/References and Pointers/LValue RValue References.md",
-    "Programming/Cpp/TZ_Note/Notes/References and Pointers/Summary.md",
-    "Programming/Cpp/TZ_Note/Notes/Testing Strategies.md"
+    "CICD/Jenkins/Set Jenkins Home.md",
+    "CICD/Untitled.md",
+    "CICD/Nginx/Authentication.md",
+    "linux-webserver-config/configs/nginx_config/Index.md"
   ]
 }
