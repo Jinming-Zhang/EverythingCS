@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux-webserver-config/index.md",
+            "file": "CICD/Docker/Container Networking.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux-webserver-config/index.md",
+            "file": "CICD/Docker/Container Networking.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux-webserver-config/index.md",
+                "file": "CICD/Docker/Container Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "eb9e27644f94a351",
   "lastOpenFiles": [
+    "CICD/Docker/Container Networking.md",
+    "CICD/Docker/Common Commands.md",
+    "CICD/Docker/Container Volumes.md",
+    "CICD/Docker/Build Image.md",
+    "CICD/Docker/Dockerfile.md",
+    "CICD/Docker/Index.md",
+    "CICD/Docker/Docker Compose.md",
     "linux-webserver-config/index.md",
     "linux-webserver-config/ServiceFileTemplate.md",
-    "CICD/Linux/Create service file for systemctl.md",
-    "linux-webserver-config/jenkins sudo commands.md",
-    "CICD/Linux/User Permissions.md",
-    "CICD/Setup Ubuntu Web Server.md",
-    "CICD/Jenkins/Set Jenkins Home.md",
-    "CICD/Untitled.md",
-    "CICD/Nginx/Authentication.md",
-    "linux-webserver-config/configs/nginx_config/Index.md"
+    "CICD/Linux/Create service file for systemctl.md"
   ]
 }
