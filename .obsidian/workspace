@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Docker/Container Networking.md",
-            "mode": "source"
+            "file": "linux-webserver-config/index.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "b3c48a955af3a92c"
@@ -21,8 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/Docker/Container Networking.md",
-            "mode": "preview"
+            "file": "linux-webserver-config/index.md",
+            "mode": "preview",
+            "source": false
           }
         },
         "group": "b3c48a955af3a92c"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/Docker/Container Networking.md",
+                "file": "linux-webserver-config/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb9e27644f94a351",
+  "active": "0510a852ef0e4062",
   "lastOpenFiles": [
-    "CICD/Docker/Container Networking.md",
+    "linux-webserver-config/index.md",
     "CICD/Docker/Common Commands.md",
-    "CICD/Docker/Container Volumes.md",
     "CICD/Docker/Build Image.md",
+    "CICD/Linux/Create service file for systemctl.md",
+    "CICD/Docker/Container Networking.md",
     "CICD/Docker/Dockerfile.md",
+    "CICD/Docker/Container Volumes.md",
     "CICD/Docker/Index.md",
     "CICD/Docker/Docker Compose.md",
-    "linux-webserver-config/index.md",
-    "linux-webserver-config/ServiceFileTemplate.md",
-    "CICD/Linux/Create service file for systemctl.md"
+    "linux-webserver-config/ServiceFileTemplate.md"
   ]
 }
