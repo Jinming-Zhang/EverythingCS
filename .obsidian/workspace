@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux-webserver-config/index.md",
+            "file": "Programming/Cpp/Arrays/OperatorsOverArrays.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux-webserver-config/index.md",
+            "file": "Programming/Cpp/Arrays/OperatorsOverArrays.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux-webserver-config/index.md",
+                "file": "Programming/Cpp/Arrays/OperatorsOverArrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0510a852ef0e4062",
+  "active": "eb9e27644f94a351",
   "lastOpenFiles": [
-    "linux-webserver-config/index.md",
-    "CICD/Docker/Common Commands.md",
-    "CICD/Docker/Build Image.md",
-    "CICD/Linux/Create service file for systemctl.md",
-    "CICD/Docker/Container Networking.md",
-    "CICD/Docker/Dockerfile.md",
-    "CICD/Docker/Container Volumes.md",
-    "CICD/Docker/Index.md",
-    "CICD/Docker/Docker Compose.md",
-    "linux-webserver-config/ServiceFileTemplate.md"
+    "Programming/Cpp/Arrays/Index.md",
+    "Programming/Cpp/TZ_Note/Notes/Pass by Value vs Pass by Reference.md",
+    "Programming/Cpp/TZ_Note/Notes/RANDOM NUMBER GENERATORS.md",
+    "Programming/Cpp/T3_Operators/README.md",
+    "Programming/Cpp/TZ_Note/Notes/Template Classes.md",
+    "Programming/Cpp/TZ_Note/Notes/Testing Strategies.md",
+    "Programming/Cpp/TZ_Note/Notes/Template Functions.md",
+    "Programming/Cpp/IDTWhatsThis.md",
+    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/Struct.md",
+    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/index.md"
   ]
 }
