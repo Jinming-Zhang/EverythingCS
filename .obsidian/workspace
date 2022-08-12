@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/Arrays/OperatorsOverArrays.md",
+            "file": "CICD/LetsEncrypt/Setup.md",
             "mode": "source",
             "source": false
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/Arrays/OperatorsOverArrays.md",
-            "mode": "preview",
+            "file": "CICD/LetsEncrypt/Setup.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cpp/Arrays/OperatorsOverArrays.md",
+                "file": "CICD/LetsEncrypt/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "eb9e27644f94a351",
   "lastOpenFiles": [
+    "CICD/Linux/Create service file for systemctl.md",
+    "CICD/Linux/directory permission.md",
+    "linux-webserver-config/index.md",
+    "CICD/Nginx/How Nginx Process a Request.md",
+    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/Array.md",
     "Programming/Cpp/Arrays/Index.md",
     "Programming/Cpp/TZ_Note/Notes/Pass by Value vs Pass by Reference.md",
     "Programming/Cpp/TZ_Note/Notes/RANDOM NUMBER GENERATORS.md",
     "Programming/Cpp/T3_Operators/README.md",
-    "Programming/Cpp/TZ_Note/Notes/Template Classes.md",
-    "Programming/Cpp/TZ_Note/Notes/Testing Strategies.md",
-    "Programming/Cpp/TZ_Note/Notes/Template Functions.md",
-    "Programming/Cpp/IDTWhatsThis.md",
-    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/Struct.md",
-    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/index.md"
+    "Programming/Cpp/TZ_Note/Notes/Template Classes.md"
   ]
 }
