@@ -1,0 +1,47 @@
+@startuml class example
+skinparam backgroundColor #EEEBDC
+' skinparam handwritten true
+skinparam sequenceMessageAlign center
+skinparam classAttributeIconSize 0
+
+skinparam sequence {
+	ArrowColor DeepSkyBlue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+
+	ParticipantBorderColor DeepSkyBlue
+	ParticipantBackgroundColor DodgerBlue
+	ParticipantFontName Impact
+	ParticipantFontSize 17
+	ParticipantFontColor #A9DCDF
+
+	ActorBackgroundColor aqua
+	ActorFontColor DeepSkyBlue
+	ActorFontSize 17
+	ActorFontName Aapex
+}
+
+class Dummy {
+	-field1
+	#field2
+	~method1()
+	+method2()
+}
+
+class Animal{}
+
+class Wolf{
+	-name 
+	#age 
+	+bark() 
+	~breed()
+}
+
+class Fox{}
+class Dog{}
+
+
+Wolf --|> Animal
+
+@enduml

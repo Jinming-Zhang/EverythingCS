@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9e27644f94a351",
+        "id": "d0e8384063327881",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/LetsEncrypt/Setup.md",
+            "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "b3c48a955af3a92c"
+        "group": "37961206dbd19915"
       },
       {
-        "id": "0510a852ef0e4062",
+        "id": "176ae068a2d7734a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CICD/LetsEncrypt/Setup.md",
-            "mode": "source",
+            "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
+            "mode": "preview",
             "source": false
           }
         },
-        "group": "b3c48a955af3a92c"
+        "group": "37961206dbd19915"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CICD/LetsEncrypt/Setup.md",
+                "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb9e27644f94a351",
+  "active": "d0e8384063327881",
   "lastOpenFiles": [
-    "CICD/Linux/Create service file for systemctl.md",
-    "CICD/Linux/directory permission.md",
-    "linux-webserver-config/index.md",
-    "CICD/Nginx/How Nginx Process a Request.md",
-    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/Array.md",
-    "Programming/Cpp/Arrays/Index.md",
-    "Programming/Cpp/TZ_Note/Notes/Pass by Value vs Pass by Reference.md",
-    "Programming/Cpp/TZ_Note/Notes/RANDOM NUMBER GENERATORS.md",
-    "Programming/Cpp/T3_Operators/README.md",
-    "Programming/Cpp/TZ_Note/Notes/Template Classes.md"
+    "UMLNotes/ClassDiagram/Relationships.md",
+    "UMLNotes/ClassDiagram/Class Diagram.md",
+    "UMLNotes/ClassDiagram/Class Diagram Starter Template.md",
+    "UMLNotes/ClassDiagram/ClassDiagramIndex.md",
+    "UMLNotes/Sequence Diagram/Sequence Diagram.md",
+    "UMLNotes/index.md",
+    "UMLNotes/Config/Configurations.md",
+    "UMLNotes/ClassDiagram/Images/classBlock.png",
+    "UMLNotes/ClassDiagram/ReadMe.md",
+    "UMLNotes/ClassDiagram/Packages.md"
   ]
 }

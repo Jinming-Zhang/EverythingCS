@@ -18,6 +18,3 @@ name(parameter list) : type of value returned<br/>
 - Eat(food:string, amt:int):bool
 
 ![example](./Images/classBlock.png)
-## Class Relationships
-### Inheritance
-A solid line from child class to parent class with unfilled arrowhead.<br/>
