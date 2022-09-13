@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e8384063327881",
+        "id": "eb9e27644f94a351",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -14,20 +14,20 @@
             "source": false
           }
         },
-        "group": "37961206dbd19915"
+        "group": "b3c48a955af3a92c"
       },
       {
-        "id": "176ae068a2d7734a",
+        "id": "0510a852ef0e4062",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         },
-        "group": "37961206dbd19915"
+        "group": "b3c48a955af3a92c"
       }
     ],
     "direction": "vertical"
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0e8384063327881",
+  "active": "eb9e27644f94a351",
   "lastOpenFiles": [
-    "UMLNotes/ClassDiagram/Relationships.md",
-    "UMLNotes/ClassDiagram/Class Diagram.md",
-    "UMLNotes/ClassDiagram/Class Diagram Starter Template.md",
-    "UMLNotes/ClassDiagram/ClassDiagramIndex.md",
-    "UMLNotes/Sequence Diagram/Sequence Diagram.md",
-    "UMLNotes/index.md",
-    "UMLNotes/Config/Configurations.md",
-    "UMLNotes/ClassDiagram/Images/classBlock.png",
+    "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/1/Q1.md",
+    "NEU_Courses_Repo/FundamentalsAI/Assignments/Quiz 1.md",
     "UMLNotes/ClassDiagram/ReadMe.md",
-    "UMLNotes/ClassDiagram/Packages.md"
+    "UMLNotes/ClassDiagram/Images/classBlock.png",
+    "CICD/LetsEncrypt/Setup.md",
+    "CICD/Linux/Create service file for systemctl.md",
+    "CICD/Linux/directory permission.md",
+    "linux-webserver-config/index.md",
+    "CICD/Nginx/How Nginx Process a Request.md",
+    "Programming/Cpp/TZ_Note/Notes/Type and Cast/Composite Datatypes/Array.md"
   ]
 }
