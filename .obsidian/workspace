@@ -7,19 +7,27 @@
         "id": "eb9e27644f94a351",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Algorithms/Graph/Dijkstras Algorithm.md",
+            "mode": "source",
+            "source": false
+          }
         },
-        "group": "b3c48a955af3a92c"
+        "group": "0d68ab8d8e9e3a01"
       },
       {
-        "id": "2377392161d75bef",
+        "id": "4a6d893f3783105e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Algorithms/Graph/Dijkstras Algorithm.md",
+            "mode": "preview",
+            "source": false
+          }
         },
-        "group": "b3c48a955af3a92c"
+        "group": "0d68ab8d8e9e3a01"
       }
     ],
     "direction": "vertical"
@@ -75,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Algorithms/Graph/Dijkstras Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8dc7721e0e1a9afa",
+  "active": "eb9e27644f94a351",
   "lastOpenFiles": [
-    "UMLNotes/ClassDiagram/Images/Pasted image 20220923014400.png",
+    "Programming/DesignPatterns/Type Object.md",
     "Pasted image 20220923014237.png",
+    "UMLNotes/ClassDiagram/Images/Pasted image 20220923014400.png",
     "UMLNotes/ClassDiagram/Relationships.md",
     "UMLNotes/ClassDiagram/Images/Pasted image 20220923014044.png",
     "UMLNotes/ClassDiagram/Class Diagram.md",
     "UMLNotes/ClassDiagram/Images/Pasted image 20220923012640.png",
     "UMLNotes/ClassDiagram/Images/classBlock.png",
     "UMLNotes/ClassDiagram/ClassDiagramIndex.md",
-    "UMLNotes/ClassDiagram/Packages.md",
-    "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md"
+    "UMLNotes/ClassDiagram/Packages.md"
   ]
 }
