@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "830f9a4e36342417",
+    "type": "split",
+    "children": [
+      {
+        "id": "308faecae84596e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb9e27644f94a351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CICD/LetsEncrypt/Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2bbba34370b7b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Remote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38b122302b46ef68",
+    "type": "split",
+    "children": [
+      {
+        "id": "34039d7c72dc5dad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc7721e0e1a9afa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cb3f90051567044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f075ff243d0e6f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "85f8a6065a0a6b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8651dbc6c9d137",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Git Remote.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b2bbba34370b7b72",
+  "lastOpenFiles": [
+    "CICD/LetsEncrypt/Setup.md",
+    "CICD/Linux/Create service file for systemctl.md",
+    "linux-webserver-config/index.md",
+    "Programming/Algorithms/Graph/Dijkstras Algorithm.md",
+    "Programming/DesignPatterns/Type Object.md",
+    "Pasted image 20220923014237.png",
+    "UMLNotes/ClassDiagram/Images/Pasted image 20220923014400.png",
+    "UMLNotes/ClassDiagram/Relationships.md",
+    "UMLNotes/ClassDiagram/Images/Pasted image 20220923014044.png",
+    "UMLNotes/ClassDiagram/Class Diagram.md"
+  ]
+}
