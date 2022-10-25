@@ -25,14 +25,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Remote.md",
+                "file": "Programming/Cpp/TZ_Note/Notes/Constexp and Consteval Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caba1dd7cf112428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Arrays/Fixed-Size Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01de156e2eac738a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Strings/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f0c90da64590dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Arrays/Fixed-Size Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "384a735aaf341688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Strings/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55511ddf381ead58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Strings/String View.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -90,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Remote.md",
+                "file": "Programming/Cpp/Strings/String View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +171,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b2bbba34370b7b72",
+  "active": "55511ddf381ead58",
   "lastOpenFiles": [
+    "Programming/Cpp/Strings/Index.md",
+    "Programming/Cpp/Arrays/Fixed-Size Arrays.md",
+    "Programming/Cpp/Strings/CStyle String.md",
+    "Programming/Cpp/Arrays/Index.md",
+    "Programming/Cpp/TZ_Note/Notes/Constexp and Consteval Function.md",
+    "Programming/Cpp/Arrays/OperatorsOverArrays.md",
+    "Git/Git Remote.md",
     "CICD/LetsEncrypt/Setup.md",
     "CICD/Linux/Create service file for systemctl.md",
-    "linux-webserver-config/index.md",
-    "Programming/Algorithms/Graph/Dijkstras Algorithm.md",
-    "Programming/DesignPatterns/Type Object.md",
-    "Pasted image 20220923014237.png",
-    "UMLNotes/ClassDiagram/Images/Pasted image 20220923014400.png",
-    "UMLNotes/ClassDiagram/Relationships.md",
-    "UMLNotes/ClassDiagram/Images/Pasted image 20220923014044.png",
-    "UMLNotes/ClassDiagram/Class Diagram.md"
+    "linux-webserver-config/index.md"
   ]
 }
