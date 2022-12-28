@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
+            "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/1/Q1.md",
             "mode": "source",
             "source": false
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
-            "mode": "preview",
+            "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/1/Q1.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
+                "file": "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/1/Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "d0e8384063327881",
   "lastOpenFiles": [
+    "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/1/Problem Set 1.pdf",
+    "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/1/Q1.md",
+    "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/1/Problem Set 1 MD.md",
+    "NEU_Courses_Repo/FundamentalsAI/Assignments/Problemsets/2/Q2.md",
+    "NEU_Courses_Repo/FundamentalsAI/Lecture Notes/Week 2/Questions.md",
+    "NEU_Courses_Repo/FundamentalsAI/Lecture Notes/Questions.md",
     "UMLNotes/ClassDiagram/Relationships.md",
     "UMLNotes/ClassDiagram/Class Diagram.md",
     "UMLNotes/ClassDiagram/Class Diagram Starter Template.md",
-    "UMLNotes/ClassDiagram/ClassDiagramIndex.md",
-    "UMLNotes/Sequence Diagram/Sequence Diagram.md",
-    "UMLNotes/index.md",
-    "UMLNotes/Config/Configurations.md",
-    "UMLNotes/ClassDiagram/Images/classBlock.png",
-    "UMLNotes/ClassDiagram/ReadMe.md",
-    "UMLNotes/ClassDiagram/Packages.md"
+    "UMLNotes/ClassDiagram/ClassDiagramIndex.md"
   ]
 }

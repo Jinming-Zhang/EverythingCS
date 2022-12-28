@@ -4,4 +4,8 @@ class Wolf{
 	Woof()
 	Eat (banana:Food)
 }
+
+interface Canine{
+	Bark()
+}
 @enduml

@@ -1,5 +1,5 @@
 # Oh My Sql
-[[Introduction]]
+[[Sql/Introduction]]
 [[Key Data Type and Value Types]]
 [[Create Database and Tables]]
 [[Views]]

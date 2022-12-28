@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "830f9a4e36342417",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb38eca456e993f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07eed0d0b56f28bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Arrays/Dynamic Allocated Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0be9a69066e180c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Arrays/Resizable Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d94c8eab1f7aa57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Arrays/Iterators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6474646bdd8089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/Arrays/Dynamic Allocated Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "676f7df07f4c6a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/OOP/Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b8a7cc5e7d0ba95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cpp/TZ_Note/Notes/Constexp and Consteval Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e40e3dbce0746d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Dynamic Programming/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b3ae0feee364d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Algorithms/Dynamic Programming/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38b122302b46ef68",
+    "type": "split",
+    "children": [
+      {
+        "id": "34039d7c72dc5dad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc7721e0e1a9afa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cb3f90051567044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f075ff243d0e6f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "85f8a6065a0a6b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8651dbc6c9d137",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Algorithms/Dynamic Programming/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "1b3ae0feee364d4e",
+  "lastOpenFiles": [
+    "Programming/Algorithms/Dynamic Programming/Rod Cutting Problem.md",
+    "Programming/Algorithms/Dynamic Programming/Introduction.md",
+    "Programming/Cpp/TZ_Note/Notes/Constexp and Consteval Function.md",
+    "Programming/Cpp/OOP/Syntax.md",
+    "Programming/Cpp/OOP/Miscellaneous.md",
+    "Programming/Cpp/Arrays/Dynamic Allocated Array.md",
+    "WorkWork/Tech Interview Srategy.md",
+    "Programming/Cpp/Arrays/Iterators.md",
+    "Programming/Cpp/Arrays/Index.md",
+    "Programming/Cpp/Arrays/Resizable Array.md"
+  ]
+}
