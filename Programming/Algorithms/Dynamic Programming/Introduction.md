@@ -9,3 +9,6 @@ The types of problems that the optimal solution to the problem incorporate optim
 2. Recursively define the value of an optimal solution
 3. Compute the value of an optimal solution, typically in a bottom-up fashion
 4. Construct an optimal solution from computed information
+
+## Subproblem Graph
+Identify the set of subproblems involved and how subproblems depend on one another.

@@ -2,6 +2,7 @@
 #include <iostream>
 #include <algorithm>
 #include <map>
+#include "../utils/Timer.h"
 
 std::map<int, int> rodPrices = {
     {1, 1},
@@ -14,17 +15,51 @@ std::map<int, int> rodPrices = {
     {8, 20},
     {9, 24},
     {10, 30},
+    {11, 31},
+    {12, 32},
+    {13, 35},
+    {14, 39},
+    {15, 44},
+    {16, 47},
+    {17, 49},
+    {18, 52},
+    {19, 54},
+    {20, 58},
+    {21, 60},
+    {22, 62},
+    {23, 65},
+    {24, 69},
+    {25, 74},
+    {26, 77},
+    {27, 89},
+    {28, 82},
+    {29, 84},
+    {30, 98},
+    {31, 100},
+    {32, 102},
+    {33, 105},
+    {34, 109},
+    {35, 114},
+    {36, 117},
+    {37, 119},
+    {38, 122},
+    {39, 124},
+    {40, 128},
 };
 
 /// @brief return the revenue of optimal cut of a rod of length n
 /// @param p
 /// @param n
 /// @return
-int CutRodSlow(std::map<int, int> priceMap, int n)
+int CutRodSlow(std::map<int, int> &priceMap, int n)
 {
   if (n == 0)
   {
     return 0;
+  }
+  if (n > priceMap.size())
+  {
+    return CutRodSlow(priceMap, priceMap.size()) + CutRodSlow(priceMap, n - priceMap.size());
   }
 
   int res{-1};
@@ -40,12 +75,9 @@ int CutRodSlow(std::map<int, int> priceMap, int n)
 
 int main(int argc, char const *argv[])
 {
+  Timer t;
   std::cout << rodPrices.size() << std::endl;
-  std::cout << CutRodSlow(rodPrices, 1) << std::endl;
-  std::cout << CutRodSlow(rodPrices, 2) << std::endl;
-  std::cout << CutRodSlow(rodPrices, 3) << std::endl;
-  std::cout << CutRodSlow(rodPrices, 4) << std::endl;
-  std::cout << CutRodSlow(rodPrices, 5) << std::endl;
-  std::cout << CutRodSlow(rodPrices, 6) << std::endl;
+  std::cout << CutRodSlow(rodPrices, 40) << std::endl;
+  std::cout << t.elapsed() << std::endl;
   return 0;
 }
