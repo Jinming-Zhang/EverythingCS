@@ -53,3 +53,19 @@
 I am writing to express my interest in the [C++ Game Developer] position at [Company Name]. I worked as a full-time Unity developer for two years and developed strong programing and teamworking skills. Currently I am a Master of Science in Computer Science student at the Northeastern University Vancouver Campus. As a motivated and skilled software developer with a passion for game development, I believe I will be a strong candidate for this position.
 
 ### OOP /C\# Paragraph
+During my two years career as a full time Unity developer, I gained efficient experiences in OOP programing and C\#. In the major code refactoring of our project, I helped improving the project structure by applying various design patterns as appropriate, such as using template pattern to sort UI components, using strategy pattern to alter game rules during run time, and using observer pattern to decouple responsibilities between game components.
+
+### OOP /C++ Paragraph
+I also have solid foundation in C++. I have completed multiple C++ project in my undergraduate such as writing different ray tracers and path finding algorithms in C++. Currently, I am taking a course on building game engine using C++, and have learned different systems in a game engine and design patterns that implements the system, such as using singleton for resource manager and component pattern for game components. By the end of the semester, I will have a great understanding of the underlying structure of a game engine and a solid foundation in using C++.
+
+### AI Paragraph
+Other than programming skills, I also have a strong computer science background. I completed various courses such as machine learning, artificial intelligence, computer graphics, and developed excellent algorithm skills. For example, I implemented Dijkstra's algorithm to train the AI agent efficiently through reinforcement learning. Moreover, I applied Naive Bayes algorithm and developed a simple spam filter model. I am also taking an algorithm class, I will have a deeper understanding of dynamic programming and other advanced algorithms that can help me be a successful computer scientist.
+
+### Scripting Paragraph
+I am familiar with scripting languages such as Python and JavaScript. I like to use Python to help me with small tasks. For instance, I used Python and Selenium and wrote a simple script that helped me found an early driving test time slot. I also took online courses on JavaScript and ReactJs and developed my portfolio website. 
+
+
+### Teamwork Paragraph
+Furthermore, I have great teamwork and communication skills. While I was working as a Unity developer, I regularly communicated with designers to update the progress of the features and clear any confusions. I'm also skilled in maintain a clean commit history using Git by creating a separate branch for each feature or bug fix, re-organize commit history and resolve conflicts using rebase and finally upload the changes with a pull request. 
+
+collaboration with people from different countries through multiple game jams. During a one-week-long game jam, I worked with four people from three different time zones, where I analyzed the requirements and came up with a good approximation of the scale of the game, communicated with teammates regularly, and ensured everyone was working on desired features and delivered a decent game with a tight deadline.
