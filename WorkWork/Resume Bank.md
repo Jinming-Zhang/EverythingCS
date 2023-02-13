@@ -50,5 +50,6 @@
 
 # Cover Letter
 ### Sample Opening
-I am writing to express my interest in the C++ Game Developer position at [Company Name]. As a highly motivated and skilled software engineer with a passion for game development, I am confident that I have the experience and expertise required for this role.
+I am writing to express my interest in the [C++ Game Developer] position at [Company Name]. I worked as a full-time Unity developer for two years and developed strong programing and teamworking skills. Currently I am a Master of Science in Computer Science student at the Northeastern University Vancouver Campus. As a motivated and skilled software developer with a passion for game development, I believe I will be a strong candidate for this position.
+
 ### OOP /C\# Paragraph
