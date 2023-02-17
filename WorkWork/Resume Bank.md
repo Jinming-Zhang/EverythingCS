@@ -6,7 +6,7 @@
 - Solid C/C++ skills gained by completing multiple academic projects that require memory management and high performance with high quality, and currently taking a course that builds a game engine using C++ from scratch.
 
 #### Web
-- Great web programming skills acquired from completing Web Development course, self-learned React, SCSS, developed and deployed personal website with customized RESTful API using NodeJS, MongoDB, AWS, etc...  
+- Great web programming skills acquired from completing Web Development course, self-learned React, SCSS, developed and deployed personal website with customized RESTful API using NodeJS, MongoDB, AWS, etc. 
 
 #### Version Control
 - Adequate experiences in version control tools, skilled in GitHub commands and work flow such as branching out features, merge/rebase with other branches and making pull request to upload the changes.
