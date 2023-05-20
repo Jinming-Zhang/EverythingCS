@@ -7,3 +7,6 @@
 [submodule "NEU_Courses_Repo"]
 	path = NEU_Courses_Repo
 	url = git@github.com:Jinming-Zhang/NEU_Courses_Repo.git
+[submodule "Programming/opengl-practice"]
+	path = Programming/opengl-practice
+	url = https://github.com/Jinming-Zhang/opengl-practice
