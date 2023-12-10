@@ -9,4 +9,4 @@
 	url = git@github.com:Jinming-Zhang/NEU_Courses_Repo.git
 [submodule "Programming/opengl-practice"]
 	path = Programming/opengl-practice
-	url = https://github.com/Jinming-Zhang/opengl-practice
+	url = git@github.com:Jinming-Zhang/opengl-practice.git
