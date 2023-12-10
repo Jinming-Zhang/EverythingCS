@@ -1,0 +1,35 @@
+  static List<int> MergeSort(List<int> input)
+  {
+    if (input.Count <= 1)
+    {
+      return input;
+    }
+    int mid = input.Count / 2;
+    List<int> sortedLeft = MergeSort(input.GetRange(0, mid));
+    List<int> sortedRight = MergeSort(input.GetRange(mid, input.Count - mid));
+    List<int> merged = new List<int>();
+    int leftInd = 0;
+    int rightInd = 0;
+    while (leftInd < sortedLeft.Count && rightInd < sortedRight.Count)
+    {
+      if (sortedLeft[leftInd] <= sortedRight[rightInd])
+      {
+        merged.Add(sortedLeft[leftInd]);
+        leftInd++;
+      }
+      else if (sortedLeft[leftInd] > sortedRight[rightInd])
+      {
+        merged.Add(sortedRight[rightInd]);
+        rightInd++;
+      }
+    }
+    if (leftInd == sortedLeft.Count)
+    {
+      merged.AddRange(sortedRight.GetRange(rightInd, sortedRight.Count - rightInd));
+    }
+    if (rightInd == sortedRight.Count)
+    {
+      merged.AddRange(sortedLeft.GetRange(leftInd, sortedLeft.Count - leftInd));
+    }
+    return merged;
+  }

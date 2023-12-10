@@ -3,55 +3,68 @@
 #include <math.h>
 
 template <typename T>
-class PriorityQ
+class MaxHeap
 {
 private:
-  std::vector<T> queue{};
+  std::vector<T> heap{};
   // left child of i: 2i
   // right child of i: 2i+1
   // parent of i: floor(i/2)
-  void HeapifySingle(int index = 0)
+  void MaxHeapify(int startIndex, int lastIndex)
   {
-    int leftChild{2 * index};
-    int rightChild{2 * index + 1};
-    int minIndex{index};
-    if (leftChild < queue.size() && queue[leftChild] < queue[minIndex])
+    startIndex << 2;
+    int leftChild{startIndex + 1};
+    int rightChild{startIndex + 2};
+    int maxIndex{startIndex};
+    if (leftChild <= lastIndex && heap[leftChild] > heap[maxIndex])
     {
-      minIndex = leftChild;
+      maxIndex = leftChild;
     }
-    if (rightChild < queue.size() && queue[rightChild] < queue[minIndex])
+    if (rightChild <= lastIndex && heap[rightChild] > heap[maxIndex])
     {
-      minIndex = rightChild;
+      maxIndex = rightChild;
     }
-    if (minIndex != index)
+
+    if (maxIndex != startIndex)
     {
-      std::swap(queue[index], queue[minIndex]);
-      HeapifySingle(minIndex);
+      std::swap(heap[startIndex], heap[maxIndex]);
+      MaxHeapify(maxIndex, lastIndex);
     }
   }
-  void HeapifyAll()
+
+  void BuildMaxHeap(int lastIndex)
   {
-    int cap{static_cast<int>(queue.size() / 2)};
+    int cap{static_cast<int>((lastIndex + 1) / 2)};
     for (int i{cap}; i >= 0; --i)
     {
-      HeapifySingle(i);
+      MaxHeapify(i, lastIndex);
     }
   }
 
 public:
-  PriorityQ() {}
+  MaxHeap() {}
   // operations
-  void Push(T obj)
+  void Insert(T obj)
   {
-    queue.push_back(obj);
-    HeapifyAll();
+    heap.push_back(obj);
+    BuildMaxHeap(heap.size() - 1);
   }
   void Pop()
   {
   }
+  void HeapSort()
+  {
+    int index{static_cast<int>(heap.size() - 1)};
+    while (index > 0)
+    {
+      std::swap(heap[0], heap[index]);
+      --index;
+      MaxHeapify(0, index);
+    }
+  }
   void Print()
   {
-    for (T elmt : queue)
+    for (T elmt : heap)
     {
       std::cout << elmt << ", ";
     }
@@ -61,16 +74,18 @@ public:
 
 int main(int argc, char const *argv[])
 {
-  PriorityQ<int> q{};
-  q.Push(8);
-  q.Push(2);
-  q.Push(5);
-  q.Push(1);
-  q.Push(9);
-  q.Push(6);
-  q.Push(7);
-  q.Push(4);
-  q.Push(3);
+  MaxHeap<int> q{};
+  q.Insert(8);
+  q.Insert(2);
+  q.Insert(5);
+  q.Insert(1);
+  q.Insert(9);
+  q.Insert(6);
+  q.Insert(7);
+  q.Insert(4);
+  q.Insert(3);
+  q.Print();
+  q.HeapSort();
   q.Print();
   return 0;
 }
