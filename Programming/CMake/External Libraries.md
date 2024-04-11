@@ -48,3 +48,10 @@ if(USE_MYMATH)
 endif()
 ```
 
+## Let sub libraries manage include directories
+
+We can specify in the library's CMakeLists to tell the top project what directories need to be included in the build, by using the `INTERFACE` keyword with `target_include_directories()` command.
+We can use the `CMAKE_CURRENT_SOURCE_DIR` to refer to the library's source directory, and use it to locate the header file directories for the library.
+```cmake
+target_include_directories(MathFunctions INTERFACE ${CMAKE_CURRENT_SOURCE_DIR} )
+```
