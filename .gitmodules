@@ -4,9 +4,6 @@
 [submodule "linux-webserver-config"]
 	path = linux-webserver-config
 	url = git@github.com:Jinming-Zhang/linux-webserver-config.git
-[submodule "NEU_Courses_Repo"]
-	path = NEU_Courses_Repo
-	url = git@github.com:Jinming-Zhang/NEU_Courses_Repo.git
 [submodule "Programming/opengl-practice"]
 	path = Programming/opengl-practice
 	url = git@github.com:Jinming-Zhang/opengl-practice.git
