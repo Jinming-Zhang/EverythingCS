@@ -1,0 +1,8 @@
+namespace SearchProblems
+{
+interface SearchProblem
+{
+  
+}
+  
+}
