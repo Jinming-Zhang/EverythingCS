@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "e47569eaf047c656",
+    "type": "split",
+    "children": [
+      {
+        "id": "c475fbde6b5a5c82",
+        "type": "split",
+        "children": [
+          {
+            "id": "e0c223a9cee5b337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identifier Linkage.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "36abda5a2bfb2d55"
+          },
+          {
+            "id": "d8bddf23b6f514a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identifier Linkage.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "36abda5a2bfb2d55"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2740bd7092bf0d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f45ccf92ab30353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03ac48260030e0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b0f42ae81013061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "cd8979e1ee721e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a11b376b59ab6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98ef3e43ae960d7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Identifier Linkage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e0c223a9cee5b337",
+  "lastOpenFiles": [
+    "Identifier Linkage.md",
+    "Glossary/Inline Function and Variable.md",
+    "Glossary/Forward Declaration.md",
+    "Glossary/Glossary.md",
+    "Glossary/Variable Duration.md",
+    "Comparing floating point numbers.md",
+    "Compilers.md",
+    "Initialization methods.md",
+    "Index.md",
+    "Namespaces and scope.md"
+  ]
+}
