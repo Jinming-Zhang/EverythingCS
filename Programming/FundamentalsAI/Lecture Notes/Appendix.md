@@ -1,0 +1,1 @@
+syllogisms:  三段论

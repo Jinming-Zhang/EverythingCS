@@ -1,0 +1,1 @@
+Like a view of the string, that doesn't change the original string.
