@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/CMakeFiles/main.dir/embed.manifest"

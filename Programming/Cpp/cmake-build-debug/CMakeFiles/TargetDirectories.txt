@@ -1,0 +1,9 @@
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/CMakeFiles/main.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/Polymorphism/CMakeFiles/Polymorphism.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/Polymorphism/CMakeFiles/edit_cache.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/Polymorphism/CMakeFiles/rebuild_cache.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/SmartPointers/CMakeFiles/SmartPointers.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/SmartPointers/CMakeFiles/edit_cache.dir
+E:/Projects/ObsidianNotes/obsidian_notes_cs/Programming/Cpp/cmake-build-debug/SmartPointers/CMakeFiles/rebuild_cache.dir
