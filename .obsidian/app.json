@@ -10,5 +10,7 @@
     "margin": "0",
     "downscalePercent": 84
   },
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"55f66b55aaece54a","x":-220,"y":-280,"width":250,"height":60,"type":"text","text":"Anum"},
+		{"id":"b8fe1937e1bc3716","x":-483,"y":-123,"width":250,"height":60,"type":"text","text":"Osiris"},
+		{"id":"e5440464bb4a42ca","x":-608,"y":80,"width":250,"height":60,"type":"text","text":"Horus"},
+		{"id":"0512413a07ea28eb","x":-92,"y":-111,"width":250,"height":60,"type":"text","text":"Seth"},
+		{"id":"03c20a66b61d7272","x":-580,"y":-280,"width":250,"height":60,"type":"text","text":"Ra"}
+	],
+	"edges":[
+		{"id":"7a42a19e6001c951","fromNode":"55f66b55aaece54a","fromSide":"bottom","toNode":"b8fe1937e1bc3716","toSide":"top"},
+		{"id":"24e31c5116bce6da","fromNode":"b8fe1937e1bc3716","fromSide":"bottom","toNode":"e5440464bb4a42ca","toSide":"top","label":"son"},
+		{"id":"7a2e281e7a38cd37","fromNode":"b8fe1937e1bc3716","fromSide":"right","toNode":"0512413a07ea28eb","toSide":"left","label":"brother"},
+		{"id":"f759bb945a55ab80","fromNode":"03c20a66b61d7272","fromSide":"bottom","toNode":"b8fe1937e1bc3716","toSide":"top","label":"son"}
+	]
+}

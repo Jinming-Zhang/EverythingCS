@@ -1,7 +1,13 @@
 # Online Subsystem
-Unreal has it's Online Subsystem plug-ins for different platform services to help build a client-server mode multiplayer game.
+Unreal has it's Online Subsystem plug-ins for different platform services to help build a client-server mode multiplayer game. It's a layer between different platforms so we only need to write the code once.
 
 We need to install both the **Online Subsystem** and **Online Subsystem Steam** (or other platform services) to use it in unreal project code.
+
+- Unreal Engine Online Subsystem, plus ->
+	- Steam platform
+	- Epic platform
+	- XBox platform
+	- ...
 
 # Session based game
 Basic steps involved in creating a session based game:
@@ -20,6 +26,15 @@ Basic steps involved in creating a session based game:
 - Join session
 - Start session
 - Destroy session
+
+
+# Two Steps
+## Client to create a session
+1. Creating the session with configs, then (optionally go to a lobby scene) wait for others to join
+## Clients to search/join a session
+1. Create search configs
+2. Find sessions match the config
+3. Retrieve the ip and other information for the sessions that we can use to join
 
 # Coding
 We'll use the online subsystem interface provided by unreal as an abstract layer to interact with the specific online service we enabled.
@@ -41,5 +56,8 @@ We'll create an object of one of the `delegate type` that we are interested in, 
 
 ## session interface delegate types sample
 ![[session delegate.png]]
-`FOnCreateSessionCompleteDelegate`
-`OnFindSessionsCompleted`
+
+Register needed delegates to the `IOnlineSessionInterface`:
+- `FOnCreateSessionCompleteDelegate`
+- `OnFindSessionsCompleted`
+- etc.
