@@ -57,4 +57,21 @@ An example of discrete and infinite sample spaces:
 - Sample Space: {1,2,3,...}
 - Probability law (define probability of every outcome/event):
 	- $P(n) = \frac{1}{2^n},~n=1,2,3$, n be the outcome
+- Check against axioms:
+	- $\sum_{n=1}^{\infty} \frac{1}{2^n} = \frac{1}{2} \sum_{n=1}^{\infty} \frac{1}{2^n} = \frac{1}{2}\cdot \frac{1}{1-\frac{1}{2}} = 1$ 
+- P(outcome is even) = P({2,4,...})
+	- = $P(\{2\}~\cup~\{4\}~\cup~...)=P(\{2\})+P(\{4\})+...=\frac{1}{4}(1+\frac{1}{4}+\frac{1}{4^2})+...=\frac{1}{4}(\frac{1}{1-\frac{1}{4}}) = \frac{1}{3}$ 
+- Countable Additivity Axiom:
+	- If $A_1,~A_2,~A_3,~...,$ is an infinite sequence of disjoint events, then $P(A_1\cup A_2 \cup A_3 \cup ~...) = P(A_1)+P(A_2)+P(A_3)+...$
+		- sequence: elements can be arranged into sequence of first event, second event, third event, ... (can happen in sequence)
+		- e.g., number of tosses before first head appear can be ordered into sequence: 1, 2, 3, ..., of appearance.
+		- disjoint points in a unit square can not be ordered into sequence of appearance.
+
+## Interpretation and use of probabilities
+- Probability can be interpretated as Frequency
+	- Frequency of event A is P(A), frequency of A will occur P(coin toss yield head)=$\frac{1}{2}$
+- Description of beliefs
+- A framework for analyzing phenomena with uncertain outcomes, can be used for predictions, Rules of Consistent Reasoning: ![[Pasted image 20260102150315.png]]
+
+
 
